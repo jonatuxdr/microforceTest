@@ -1,0 +1,14 @@
+{
+    "name": "webforce3/microforce",
+    "description": "MyfirstInitComposer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jonatuxdr",
+            "email": "jonathan.deriemaecker@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
